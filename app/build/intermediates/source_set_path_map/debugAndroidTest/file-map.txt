@@ -1,0 +1,4 @@
+com.jorgesys.searchaddress.test.app-androidTest-0 F:\code\Android-Route-Google-Maps\app\build\generated\res\resValues\androidTest\debug
+com.jorgesys.searchaddress.test.app-mergeDebugAndroidTestResources-1 F:\code\Android-Route-Google-Maps\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.jorgesys.searchaddress.test.app-mergeDebugAndroidTestResources-2 F:\code\Android-Route-Google-Maps\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.jorgesys.searchaddress.test.app-merged_res-3 F:\code\Android-Route-Google-Maps\app\build\intermediates\merged_res\debugAndroidTest

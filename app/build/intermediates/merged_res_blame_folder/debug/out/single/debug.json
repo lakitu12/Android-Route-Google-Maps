@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/layout_lyt_dialog.xml.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/layout/lyt_dialog.xml"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/layout_fragment_directions.xml.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/layout/fragment_directions.xml"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/drawable_dotted.xml.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/drawable/dotted.xml"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/layout_item_dialog.xml.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/layout/item_dialog.xml"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/layout_activity_main.xml.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/drawable_ic_send.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/drawable/ic_send.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/drawable_end.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/drawable/end.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/drawable_start.png.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/drawable/start.png"
+    },
+    {
+        "merged": "com.jorgesys.searchaddress.app-merged_res-14:/drawable_item_divider_black.xml.flat",
+        "source": "com.jorgesys.searchaddress.app-main-16:/drawable/item_divider_black.xml"
+    }
+]

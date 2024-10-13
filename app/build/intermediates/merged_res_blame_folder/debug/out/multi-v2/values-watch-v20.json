@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jorgesys.searchaddress.app-mergeDebugResources-12:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "D:\\vs_code\\gradle-8.7\\caches\\transforms-3\\48a915cebc5348470be5489b7339b4d2\\transformed\\appcompat-1.0.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

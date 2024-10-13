@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable dotted
+drawable end
+drawable ic_send
+drawable item_divider_black
+drawable start
+id cardview
+id container
+id destination
+id eta
+id map
+id operator
+id recycler_view
+id send
+id start
+layout activity_main
+layout fragment_directions
+layout item_dialog
+layout lyt_dialog
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style AppTheme
